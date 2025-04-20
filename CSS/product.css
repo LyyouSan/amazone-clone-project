@@ -115,14 +115,14 @@ body{
     margin-bottom: 15px;
 }
 .product-description{
-    font-size: 20px;
+    font-size: 17px;
     margin: 15px 0;
 }
 .product-description ul{
     display: flex;
     flex-direction: column;
     gap: 10px;
-    margin-left: 30px;
+    margin-left: 5px;
 }
 .product-d-purchase{
     width: 100%;
